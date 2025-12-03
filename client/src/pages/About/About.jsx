@@ -7,7 +7,7 @@ const About = () => {
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
           StayVista is your trusted platform for discovering and booking
           exceptional stays worldwide. We connect travelers with hosts to create
-          memorable experiences that feel like home — anywhere in the world.
+          memorable experiences that feel like home — anywhere in the world. Find your best suite with us
         </p>
       </section>
 
