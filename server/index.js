@@ -12,7 +12,7 @@ const port = process.env.PORT || 5000
 
 // middleware
 const corsOptions = {
-  origin: ['http://localhost:5173', 'http://localhost:5174', 'https://vercel.com/iftekhar-mahmoods-projects/stay-vista-server','https://vercel.com/iftekhar-mahmoods-projects','https://stay-vista-front.vercel.app/','https://vercel.com', 'https://stay-vista-server-fawn.vercel.app','https://stay-vista-back.vercel.app', 'https://stay-vista-front.vercel.app','https://stay-vista-frontend.vercel.app','https://stay-vista-backend.vercel.app'],
+  origin: ['http://localhost:5173', 'http://localhost:5174','https://vercel.com/iftekhar-mahmoods-projects','https://vercel.com', 'https://harbor-stay-front.vercel.app', 'https://vercel.com/iftekhar-mahmoods-projects/harbor-stay-front', 'https://vercel.com/iftekhar-mahmoods-projects/harbor-stay-back', 'https://firebase.google.com', 'https://console.firebase.google.com/u/1/project/stay-vista-2025/overview', ],
   credentials: true,
   optionSuccessStatus: 200,
 }
