@@ -38,11 +38,12 @@ User dashboard to manage bookings, view history, and account details.
 
 ## ⚙️ Tech Stack
 
-- React.js / Next.js (Frontend)
+- React.js  (Frontend)
 - Tailwind CSS (Styling)
-- Node.js & Express (Backend - if applicable)
-- MongoDB (Database - if applicable)
+- Node.js & Express (Backend)
+- MongoDB (Database)
 - Vercel (Deployment)
+- Firebase (Authentication) 
 
 ---
 
